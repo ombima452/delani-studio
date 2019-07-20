@@ -25,12 +25,12 @@ $(document).ready(function(){
    })
   });
 
-//   function contact(form){
-//     var name = document.forms["myform"]["name"].value;
-//         var email = document.forms["myform"]["email"].value;
-//         var message = document.forms["myform"]["textarea"].value;
-//         alert("Hi " + name + "," + " We have received your message. Thank you for reaching out to us. ");
-//           }
+  function contact(form){
+    var name = document.forms["myform"]["name"].value;
+        var email = document.forms["myform"]["email"].value;
+        var message = document.forms["myform"]["textarea"].value;
+        alert("Hi " + name + "," + " We have received your message. Thank you for reaching out to us. ");
+          }
           
 
 
