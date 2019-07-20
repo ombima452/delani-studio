@@ -36,59 +36,59 @@ $(document).ready(function(){
 
 
 
-// $(document).ready(function(){
-//       $('.overlay').mouseover(function () {
-//             $('.text').show();
-//         }).mouseout(function () {
-//             $('.text').hide();
-//         });
+$(document).ready(function(){
+      $('.overlay').mouseover(function () {
+            $('.text').show();
+        }).mouseout(function () {
+            $('.text').hide();
+        });
 
 
-//         $('.overlay2').mouseover(function () {
-//           $('.text2').show();
-//       }).mouseout(function () {
-//           $('.text2').hide();
-//       });
+        $('.overlay2').mouseover(function () {
+          $('.text2').show();
+      }).mouseout(function () {
+          $('.text2').hide();
+      });
 
 
-//       $('.overlay3').mouseover(function () {
-//         $('.text3').show();
-//     }).mouseout(function () {
-//         $('.text3').hide();
-//       });
+      $('.overlay3').mouseover(function () {
+        $('.text3').show();
+    }).mouseout(function () {
+        $('.text3').hide();
+      });
 
 
-//       $('.overlay4').mouseover(function () {
-//         $('.text4').show();
-//     }).mouseout(function () {
-//         $('.text4').hide();
-//       });
+      $('.overlay4').mouseover(function () {
+        $('.text4').show();
+    }).mouseout(function () {
+        $('.text4').hide();
+      });
 
 
-//       $('.overlay5').mouseover(function () {
-//         $('.text5').show();
-//     }).mouseout(function () {
-//         $('.text5').hide();
-//       });
+      $('.overlay5').mouseover(function () {
+        $('.text5').show();
+    }).mouseout(function () {
+        $('.text5').hide();
+      });
 
 
-//       $('.overlay6').mouseover(function () {
-//         $('.text6').show();
-//     }).mouseout(function () {
-//         $('.text6').hide();
-//       });
+      $('.overlay6').mouseover(function () {
+        $('.text6').show();
+    }).mouseout(function () {
+        $('.text6').hide();
+      });
 
 
-//       $('.overlay7').mouseover(function () {
-//         $('.text7').show();
-//     }).mouseout(function () {
-//         $('.text7').hide();
-//       });
+      $('.overlay7').mouseover(function () {
+        $('.text7').show();
+    }).mouseout(function () {
+        $('.text7').hide();
+      });
 
 
-//       $('.overlay8').mouseover(function () {
-//         $('.text8').show();
-//     }).mouseout(function () {
-//         $('.text8').hide();
-//       });
-//     });
+      $('.overlay8').mouseover(function () {
+        $('.text8').show();
+    }).mouseout(function () {
+        $('.text8').hide();
+      });
+    });
