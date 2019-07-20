@@ -10,14 +10,14 @@
 h1{
     line-height: 70px;
 }
-/* #image{
+#image{
     padding-top: 10%;
 }
 .jumbotron{
     background-color: white;
     text-align: center;
 }
-.services{
+/* .services{
     background-image: url("../assets/backgrounds/s_image.jpg");
     color: white;
     height: 40%;
