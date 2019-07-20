@@ -22,14 +22,14 @@ h1{
     color: white;
     height: 40%;
 }
-/* .contact{
+.contact{
     background-image: url('../assets/backgrounds/c_image.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     height: 500px;
     
 }
-#transparency{
+/* #transparency{
     background-color: transparent;
     }
     #myform ::placeholder {
