@@ -6,7 +6,7 @@ $(document).ready(function(){
   $(".design-p").click(function(){
    $("#design-pic").show();
    $(".design-p").hide();
-  })
+  });
   $("#develop-pic").click(function(){
     $(".develop-p").toggle();
     $("#develop-pic").toggle();
@@ -14,7 +14,7 @@ $(document).ready(function(){
   $(".develop-p").click(function(){
     $("#develop-pic").show();
     $(".develop-p").hide();
-  })
+  });
   $("#prod-pic").click(function(){
      $(".prod-p").toggle();
      $("#prod-pic").toggle();
@@ -25,16 +25,7 @@ $(document).ready(function(){
    })
   });
 
-  function contact(form){
-    var name = document.forms["myform"]["name"].value;
-        var email = document.forms["myform"]["email"].value;
-        var message = document.forms["myform"]["textarea"].value;
-        alert("Hi " + name + "," + " We have received your message. Thank you for reaching out to us. ");
-          }
-          
-
-
-
+ 
 
 $(document).ready(function(){
       $('.overlay').mouseover(function () {
@@ -92,3 +83,12 @@ $(document).ready(function(){
         $('.text8').hide();
       });
     });
+
+
+    function contact(form){
+      var name = document.forms["myform"]["name"].value;
+      var email = document.forms["myform"]["email"].value;
+      var message = document.forms["myform"]["textarea"].value;
+          alert("Hi " + name + "," + " We have received your message. Thank you for reaching out to us. ");
+            };
+            

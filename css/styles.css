@@ -32,10 +32,10 @@ h1{
 #transparency{
     background-color: transparent;
     }
-    #myform ::placeholder {
+    #forms ::placeholder {
     color: white;
     }
-    #myform input{
+    #forms input{
     color: white;
     background-color: transparent;
     }
