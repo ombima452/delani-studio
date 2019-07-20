@@ -17,12 +17,12 @@ h1{
     background-color: white;
     text-align: center;
 }
-/* .services{
+.services{
     background-image: url("../assets/backgrounds/s_image.jpg");
     color: white;
     height: 40%;
 }
-.contact{
+/* .contact{
     background-image: url('../assets/backgrounds/c_image.jpg');
     background-size: cover;
     background-repeat: no-repeat;
